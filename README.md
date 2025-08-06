@@ -100,9 +100,6 @@ A modern, full-stack e-commerce platform built with React and Node.js, featuring
    npm run frontend
    ```
 
-5. **Access the application**:
-   - Frontend: http://localhost:5173
-   - Backend API: http://localhost:5000
 
 ## 📁 Project Structure
 
